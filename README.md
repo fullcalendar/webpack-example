@@ -1,4 +1,6 @@
 
+**NOTE:** this example has been moved to https://github.com/fullcalendar/fullcalendar-example-projects/tree/master/webpack
+
 # FullCalendar Webpack Example
 
 An example dev environment for FullCalendar using [Webpack].
